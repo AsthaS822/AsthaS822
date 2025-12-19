@@ -1,28 +1,44 @@
 
-# Hi there! I'm Astha Singh 👋
+## Hi there! I'm Astha Singh 👋  
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;AI+%26+Data+Enthusiast;API+Integration+%7C+Next.js+%7C+Python&font=Fira+Code&center=false&width=650&height=45&color=58A6FF&vCenter=true&pause=1000" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0096FF&vCenter=true&width=430&lines=MCA+Student+%7C+Frontend+Developer;Building+Full-Stack+Web+Applications)](https://git.io/typing-svg)
+---
 
-***
+### 🚀 About Me
+🎓 MCA student with a strong interest in **Web Development, AI-powered applications, and data-driven solutions**.  
+💻 I enjoy building **modern web apps** using Next.js and integrating **AI/LLM APIs** to solve real-world problems.  
+🧠 Currently exploring **API integrations, AI workflows, and analytics-oriented systems**.  
+🤝 Open to collaborating on **open-source, web, and AI-based projects**.
 
-## 🚀 About Me
+---
 
-- 🎓 MCA Student focused on web development and problem-solving skills.
-- 💻 Currently expanding my skills in **Next.js**, **Prisma**, and integrating **AI/Vector DBs**.
-- 💡 Project Portfolio includes **Vault - Finance App** and **Resume Analyser**.
-- 🤝 Open to collaborating on open-source projects.
+### 🛠️ Tech Stack
 
-***
+#### Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
-## 🛠️ Tech Stack
+#### Backend, Databases & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,supabase,prisma" />
+</p>
 
-| Category | Key Skills |
-| :--- | :--- |
-| **Frontend & UI** | React, Next.js, JavaScript, Tailwind CSS, Shadcn UI |
-| **Backend & DB** | Supabase, Prisma (ORM), SQL, Java |
-| **Tools & CI/CD** | Git, GitHub, Vercel, VS Code |
+#### AI, Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
 
-***
+---
+
+### 📌 Featured Projects
+- 🔍 **GitGrade** – AI-powered GitHub repository analyzer  
+- 💰 **Vault** – Finance expense tracking web application  
+- 🤖 **AI Resume Analyzer** – ATS-based resume evaluation tool  
+
+---
 
 ### 🌐 Connect with me
 
